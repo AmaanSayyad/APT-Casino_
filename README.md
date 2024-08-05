@@ -41,7 +41,7 @@ APT-Casino addresses these problems by offering:
 5. **Diverse Game Selection:** A variety of fully on-chain games, including roulette, blackjack, plinko, and more. As a (POC) Proof of Concept we developed fully on-chain Roulette but similar model can be applied to introduce the new casino games to the platform.
 
 ## Technical Architecture
-
+![captures_chrome-capture-2024-7-6](https://github.com/user-attachments/assets/3915862d-6dda-4db4-9f62-ddf8e4f290c8)
 
 ## Technology Stack
 
