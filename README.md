@@ -24,6 +24,9 @@ The traditional online gambling industry is plagued by several issues, including
 APT-Casino addresses these problems by offering:
 - **Provably Fair Gaming:** Utilizing the Chainlink VRF and Aptos on-chain randomness module to ensure all game outcomes are transparent and verifiably fair.
 
+![APT-Casino - Analog pptx (3)](https://github.com/user-attachments/assets/6880e1cb-769c-4272-8b66-686a90abf3be)
+
+
 - **Low Fees:** Leveraging the efficiency of blockchain to minimize transaction costs.
 
 - **Flexible Withdrawal Policies:** Providing users with unrestricted access to their funds.
@@ -43,6 +46,9 @@ APT-Casino addresses these problems by offering:
 ## Technical Architecture
 ![captures_chrome-capture-2024-7-6](https://github.com/user-attachments/assets/3915862d-6dda-4db4-9f62-ddf8e4f290c8)
 
+![APT-Casino - Analog pptx (4)](https://github.com/user-attachments/assets/8692e855-0a17-460e-b1fb-fdcf383311db)
+
+
 ## Technology Stack
 
 - **Manta Blockchain:** Ensures transparency, security, and efficiency in all transactions and game outcomes.
@@ -56,6 +62,9 @@ APT-Casino addresses these problems by offering:
 - **Defi Bank:** - Defi Bank: User can stake their tokens on our currently supported chains and get collateralized loans in form of in-game currency APTC.
 
 - Next.js, Javascript, Tailwind CSS, Move, Solidity, Chainlink VRF, Aptos randomness module: aptos_framework::randomness, Petra Wallet, Metamask Wallet.
+
+![APT-Casino - Analog pptx (2)](https://github.com/user-attachments/assets/ec900128-0414-4311-b7a1-46ac75d39288)
+
 
 ## Old Demo Video:
 
