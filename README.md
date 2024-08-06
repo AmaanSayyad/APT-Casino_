@@ -106,3 +106,5 @@ All though started as a idea but now we are thinking to carry forward as a busin
 **Amaan Sayyad (CEO):** A Growth Hacker, Blockchain Dev, Developer Advocate, and Budding Entrepreneur. 26x Hackathons, 17x Communities, 14x Speaker, 8x Companies, 2x Startup, 3x Publications, 2x Copyrights 1x Grantee. Expertise in partnership, KOLs, tokenomics, listing, liquidity, and market capitalization.
 
 **Neeraj Choubsia (CTO):** Full Stack Blockchain Developer. 26x Hackathons, 10x Communities, 4x Companies, 1x Grantee. A hyper-active developer.
+
+https://api.studio.thegraph.com/proxy/51486/apt-casino-graph/v0.0.1/graphql
