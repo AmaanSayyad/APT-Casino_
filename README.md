@@ -27,7 +27,7 @@ APT-Casino addresses these problems by offering:
 ![APT-Casino - Analog pptx (3)](https://github.com/user-attachments/assets/6880e1cb-769c-4272-8b66-686a90abf3be)
 
 
-- **Low Fees:** Leveraging the efficiency of blockchain to minimize transaction costs.
+- **Low Fees:** Leveraging the efficiency of Aptos and Linera blockchain to minimize transaction costs.
 
 - **Flexible Withdrawal Policies:** Providing users with unrestricted access to their funds.
 
@@ -51,7 +51,7 @@ APT-Casino addresses these problems by offering:
 
 ## Technology Stack
 
-- **Manta Blockchain:** Ensures transparency, security, and efficiency in all transactions and game outcomes.
+- **Manta, Linera and Aptos Blockchain:** Ensures transparency, security, and efficiency in all transactions and game outcomes.
 
 - **Chainlink VRF and Aptos On-Chain Randomness Module:** Guarantees fair and unbiased game results.
 
