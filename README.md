@@ -27,7 +27,7 @@ APT-Casino addresses these problems by offering:
 ![APT-Casino - Analog pptx (3)](https://github.com/user-attachments/assets/6880e1cb-769c-4272-8b66-686a90abf3be)
 
 
-- **Low Fees:** Leveraging the efficiency of blockchain to minimize transaction costs.
+- **Low Fees:** Leveraging the efficiency of Aptos and Linera blockchain to minimize transaction costs.
 
 - **Flexible Withdrawal Policies:** Providing users with unrestricted access to their funds.
 
@@ -51,7 +51,7 @@ APT-Casino addresses these problems by offering:
 
 ## Technology Stack
 
-- **Manta Blockchain:** Ensures transparency, security, and efficiency in all transactions and game outcomes.
+- **Manta, Linera and Aptos Blockchain:** Ensures transparency, security, and efficiency in all transactions and game outcomes.
 
 - **Chainlink VRF and Aptos On-Chain Randomness Module:** Guarantees fair and unbiased game results.
 
@@ -106,3 +106,5 @@ All though started as a idea but now we are thinking to carry forward as a busin
 **Amaan Sayyad (CEO):** A Growth Hacker, Blockchain Dev, Developer Advocate, and Budding Entrepreneur. 26x Hackathons, 17x Communities, 14x Speaker, 8x Companies, 2x Startup, 3x Publications, 2x Copyrights 1x Grantee. Expertise in partnership, KOLs, tokenomics, listing, liquidity, and market capitalization.
 
 **Neeraj Choubsia (CTO):** Full Stack Blockchain Developer. 26x Hackathons, 10x Communities, 4x Companies, 1x Grantee. A hyper-active developer.
+
+https://api.studio.thegraph.com/proxy/51486/apt-casino-graph/v0.0.1/graphql
